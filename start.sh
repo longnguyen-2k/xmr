@@ -1,0 +1,1 @@
+sudo nohup /root/xmr/xmrig-6.16.4/xmrig &
